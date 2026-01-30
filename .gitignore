@@ -1,0 +1,11 @@
+# Mengabaikan folder library yang berat
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Mengabaikan file konfigurasi rahasia
+.env
+
+# Mengabaikan hasil build
+build/
+dist/
